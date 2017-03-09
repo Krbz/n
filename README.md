@@ -20,7 +20,11 @@ Since you probably already have `node`, the easiest way to install `n` is throug
 
     $ npm install -g n
 
-Alternatively, you can clone this repo and
+Alternatively, you can clone this repo
+    
+    $ git clone https://github.com/tj/n.git && cd n
+
+and 
 
     $ make install
 
